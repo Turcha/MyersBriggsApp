@@ -1,0 +1,9 @@
+C:\Users\archC\source\repos\MyersBriggsApp\MyersBriggsApp\bin\Debug\MyersBriggsApp.exe
+C:\Users\archC\source\repos\MyersBriggsApp\MyersBriggsApp\bin\Debug\MyersBriggsApp.pdb
+C:\Users\archC\source\repos\MyersBriggsApp\MyersBriggsApp\obj\Debug\MyersBriggsApp.csprojAssemblyReference.cache
+C:\Users\archC\source\repos\MyersBriggsApp\MyersBriggsApp\obj\Debug\MyersBriggsApp.Form1.resources
+C:\Users\archC\source\repos\MyersBriggsApp\MyersBriggsApp\obj\Debug\MyersBriggsApp.Properties.Resources.resources
+C:\Users\archC\source\repos\MyersBriggsApp\MyersBriggsApp\obj\Debug\MyersBriggsApp.csproj.GenerateResource.cache
+C:\Users\archC\source\repos\MyersBriggsApp\MyersBriggsApp\obj\Debug\MyersBriggsApp.csproj.CoreCompileInputs.cache
+C:\Users\archC\source\repos\MyersBriggsApp\MyersBriggsApp\obj\Debug\MyersBriggsApp.exe
+C:\Users\archC\source\repos\MyersBriggsApp\MyersBriggsApp\obj\Debug\MyersBriggsApp.pdb
